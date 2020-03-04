@@ -4,7 +4,9 @@
 
 ### 1. Install Anaconda:  https://www.anaconda.com/distribution/
 
-Run ff. command in prompt or terminal:
+Steps: https://www.datacamp.com/community/tutorials/installing-anaconda-windows 
+
+Run ff. command in prompt or terminal after install:
 ```
 $ conda --version
 $ conda update --all
