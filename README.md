@@ -43,6 +43,8 @@ cv2.destroyAllWindows()
 
 ```
 
+![](https://github.com/melvincabatuan/OpenCVSamplesPython/blob/master/open_image/SampleRun.png)
+
 - open_video
 ```Python
 import cv2
