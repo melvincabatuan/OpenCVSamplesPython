@@ -64,6 +64,8 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+![](https://github.com/melvincabatuan/OpenCVSamplesPython/blob/master/open_video/SampleVid.png)
+
 - open_webcam
 ```Python
 # https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
