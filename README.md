@@ -87,3 +87,4 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+![](https://github.com/melvincabatuan/OpenCVSamplesPython/blob/master/webcam_demo/color.png)
