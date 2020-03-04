@@ -14,23 +14,20 @@ $ conda update --all
 
 ### 2. Install OpenCV: 
 
-In Linux:
 ```
 $ conda install -c conda-forge opencv
 ```
 
-In Windows: 
+Sample in Windows: 
 
-https://pysource.com/2019/03/15/how-to-install-python-3-and-opencv-4-on-windows/ 
-
-Note: No need to reinstall Python, thus skip it. 
+https://gist.github.com/melvincabatuan/dbd778e1cc276c38836c31ead4809856 
 
 ### 3. Try checking the OpenCV version after install:
 
 ```
 $ python -c 'import cv2; print(cv2.__version__)'
 ```
-In my case, this outputs 4.1.0
+In my case, this outputs 4.2
 
 ### 4. Run the sample codes in this repo:
 
